@@ -7,4 +7,4 @@
   <ul><li>Basics of Redux</li><li>Using Redux with Async programming</li><li>Integrating Redux with React</li><li>Using Redux dev tools</li><li>Redux toolkit</li></ul>
 </h4>
 
-<img src="./src/assets/screenshot.jpg" width="100%">
+<img src="./src/assets/screenshot.JPG" width="100%">
